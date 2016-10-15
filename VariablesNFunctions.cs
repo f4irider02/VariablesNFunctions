@@ -19,3 +19,8 @@ void UsePowerUp()
 {
     powerUp--;
 }
+
+void GainPowerUp()
+{
+    powerUp++;
+}
